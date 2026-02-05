@@ -1,0 +1,393 @@
+[
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/fC4U5r2R8zPf9VxIEoQebIKxYfD.jpg",
+        "genre_ids": [
+            28,
+            27,
+            10752
+        ],
+        "id": 1257009,
+        "original_language": "en",
+        "original_title": "Primitive War",
+        "overview": "Vietnam, 1968. El equipo de reconocimiento Vulture Squad se adentra en un valle aislado para investigar un pelotón de Boinas Verdes desaparecido. Su misión toma un giro oscuro cuando descubren una amenaza invisible.",
+        "popularity": 398.3817,
+        "poster_path": "https://image.tmdb.org/t/p/original/nWBqU5YXmDVJWWEDJ4u3ZSseNVL.jpg",
+        "release_date": "2025-08-21",
+        "title": "Primitive War",
+        "video": false,
+        "vote_average": 7.013,
+        "vote_count": 76
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/ewxiPfbKklk9FJZ2ECsDyJDQjvX.jpg",
+        "genre_ids": [
+            28,
+            35,
+            878
+        ],
+        "id": 338969,
+        "original_language": "en",
+        "original_title": "The Toxic Avenger Unrated",
+        "overview": "",
+        "popularity": 383.7791,
+        "poster_path": "https://image.tmdb.org/t/p/original/kHrWK8OPsmrUkdrOeY1LOUxrbmS.jpg",
+        "release_date": "2025-08-28",
+        "title": "The Toxic Avenger Unrated",
+        "video": false,
+        "vote_average": 6.339,
+        "vote_count": 84
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/ax2qCKU6tUhdkStiCnrDdXKA5xC.jpg",
+        "genre_ids": [
+            28,
+            12
+        ],
+        "id": 1086910,
+        "original_language": "en",
+        "original_title": "The Lost Princess",
+        "overview": "Alec Touati es un multimillonario americano que se embarca en un viaje transformador para descubrir sus raíces. A través de una visión de ayahuasca, Alec es transportado a una sangrienta batalla y se encuentra en un castillo encantado de Marruecos. Allí conoce a Hanna, que le cuenta la trágica historia del matrimonio forzado con un príncipe saudí y su relación amorosa secreta con el cuidador del castillo. A medida que el embarazo de la princesa se hace más evidente, la historia de amor de la pareja se enfrenta a peligrosas consecuencias.",
+        "popularity": 353.7501,
+        "poster_path": "https://image.tmdb.org/t/p/original/xXie22VAqXHMYBDTM2XpWRJWZIn.jpg",
+        "release_date": "2025-10-16",
+        "title": "La princesa perdida",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/9DYFYhmbXRGsMhfUgXM3VSP9uLX.jpg",
+        "genre_ids": [
+            27
+        ],
+        "id": 1038392,
+        "original_language": "en",
+        "original_title": "The Conjuring: Last Rites",
+        "overview": "Los investigadores de lo paranormal Ed y Lorraine Warren se enfrentan a un último caso aterrador en el que están implicadas entidades misteriosas a las que deben enfrentarse.",
+        "popularity": 253.6395,
+        "poster_path": "https://image.tmdb.org/t/p/original/vrfti9ycF4mlA5WuIyfgCf1LJQG.jpg",
+        "release_date": "2025-09-03",
+        "title": "Expediente Warren: El último rito",
+        "video": false,
+        "vote_average": 6.578,
+        "vote_count": 525
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/zpEWFNqoN8Qg1SzMMHmaGyOBTdW.jpg",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "id": 1054867,
+        "original_language": "en",
+        "original_title": "One Battle After Another",
+        "overview": "Cuando su principal enemigo resurge después de 16 años, una banda de ex revolucionarios se pone de nuevo en contacto para rescatar a la hija de uno de los suyos, encarnado por Leonardo DiCaprio. Adaptación de la novela 'Vineland', de Thomas Pynchon (1990), sobre los movimientos radicales de los años sesenta.",
+        "popularity": 176.5994,
+        "poster_path": "https://image.tmdb.org/t/p/original/zwxROLIUeEr6eFITwworjcXLAk4.jpg",
+        "release_date": "2025-09-23",
+        "title": "Una batalla tras otra",
+        "video": false,
+        "vote_average": 7.8,
+        "vote_count": 650
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/Q2OajDi2kcO6yErb1IAyVDTKMs.jpg",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "id": 1078605,
+        "original_language": "en",
+        "original_title": "Weapons",
+        "overview": "Cuando todos los alumnos de una misma clase, salvo uno, desaparecen misteriosamente la misma noche y exactamente a la misma hora, la pequeña ciudad donde viven se pregunta quién o qué está detrás de su desaparición.",
+        "popularity": 136.2609,
+        "poster_path": "https://image.tmdb.org/t/p/original/nYqEQ3ltw0hHc1kBaNWr7Rb8WNZ.jpg",
+        "release_date": "2025-08-04",
+        "title": "Weapons",
+        "video": false,
+        "vote_average": 7.4,
+        "vote_count": 1786
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/mEW9XMgYDO6U0MJcIRqRuSwjzN5.jpg",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "id": 1007734,
+        "original_language": "en",
+        "original_title": "Nobody 2",
+        "overview": "Cuatro años después de enfrentarse involuntariamente a la mafia rusa, Hutch Mansell sigue intentando saldar una deuda de 30 millones de dólares con golpes a criminales internacionales. Agotado y distanciado de su familia, organiza unas vacaciones con su esposa e hijos en Plummerville, el lugar donde solía ir con su hermano de niño. Pero un pequeño altercado los convierte en el objetivo de un peligroso mafioso local y de su corrupto sheriff, poniendo en riesgo toda la familia.",
+        "popularity": 119.4477,
+        "poster_path": "https://image.tmdb.org/t/p/original/qwdBh0102NX5fslXv3L9MSlXqKc.jpg",
+        "release_date": "2025-08-13",
+        "title": "Nadie 2",
+        "video": false,
+        "vote_average": 7.128,
+        "vote_count": 767
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/dh0dLVLDLqUKhtytCFjkf3EHeJI.jpg",
+        "genre_ids": [
+            16,
+            28,
+            14
+        ],
+        "id": 1218925,
+        "original_language": "ja",
+        "original_title": "チェンソーマン レゼ篇",
+        "overview": "",
+        "popularity": 100.921,
+        "poster_path": "https://image.tmdb.org/t/p/original/1CfZCb56vWjq37uXtbKNMevMzwG.jpg",
+        "release_date": "2025-09-19",
+        "title": "Chainsaw Man - La película: El arco de Reze",
+        "video": false,
+        "vote_average": 8.667,
+        "vote_count": 15
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/41043LV7mfluH8iXEUPVseCDAv5.jpg",
+        "genre_ids": [
+            80,
+            53,
+            35
+        ],
+        "id": 1245993,
+        "original_language": "en",
+        "original_title": "Caught Stealing",
+        "overview": "Cuando su vecino punki Russ le pide que cuide de su gato durante unos días, Hank Thompson se encuentra atrapado en medio de un variopinto grupo de gángsters amenazantes. Todos quieren algo de él; el problema es que él no sabe por qué. Mientras Hank intenta eludir sus cada vez más estrechas garras, tendrá que emplear toda su habilidad para mantenerse con vida el tiempo suficiente para averiguarlo…",
+        "popularity": 94.4574,
+        "poster_path": "https://image.tmdb.org/t/p/original/dpEGQKgOeDo9GmmKDnEWjTLTi4u.jpg",
+        "release_date": "2025-08-26",
+        "title": "Bala perdida",
+        "video": false,
+        "vote_average": 6.997,
+        "vote_count": 326
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/eQV9rSQ6S1ja4lGTwHTnQuVhoG.jpg",
+        "genre_ids": [
+            27,
+            35,
+            14,
+            18
+        ],
+        "id": 1284120,
+        "original_language": "no",
+        "original_title": "Den stygge stesøsteren",
+        "overview": "Elvira lucha contra su hermosa hermanastra en un reino donde la belleza reina suprema. Ella recurre a medidas extremas para cautivar al príncipe, en medio de una despiadada competición por la perfección física.",
+        "popularity": 65.0152,
+        "poster_path": "https://image.tmdb.org/t/p/original/m5eDdnPgIesqORqGXlAfDw5DH0Y.jpg",
+        "release_date": "2025-03-07",
+        "title": "La hermanastra fea",
+        "video": false,
+        "vote_average": 7.233,
+        "vote_count": 442
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/jvzPTf0nhsqAXodYT6ILKb99IA2.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1289936,
+        "original_language": "en",
+        "original_title": "Downton Abbey: The Grand Finale",
+        "overview": "Sigue a la familia Crawley y a su servidumbre mientras entran en la década de 1930. Cuando Mary se ve envuelta en un escándalo público y la familia enfrenta dificultades económicas, toda la casa debe lidiar con la amenaza de la deshonra social. Los Crawley deberán adaptarse al cambio, mientras el personal se prepara para un nuevo capítulo, con la próxima generación llevando a Downton Abbey hacia el futuro.",
+        "popularity": 63.1076,
+        "poster_path": "https://image.tmdb.org/t/p/original/f474M02m9FocBhR6sr4DAkvoM2c.jpg",
+        "release_date": "2025-09-10",
+        "title": "Downton Abbey: El gran final",
+        "video": false,
+        "vote_average": 7.427,
+        "vote_count": 75
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/cT9ZfwoPDk8JbgkessmQgxAWiaM.jpg",
+        "genre_ids": [
+            28,
+            878,
+            53
+        ],
+        "id": 1071585,
+        "original_language": "en",
+        "original_title": "M3GAN 2.0",
+        "overview": "Con el futuro de la existencia humana en juego, Gemma se da cuenta de que la única opción es resucitar a M3GAN y darle unas cuantas mejoras, haciéndola más rápida, más fuerte y más letal.",
+        "popularity": 45.7686,
+        "poster_path": "https://image.tmdb.org/t/p/original/zgsdwQ6XciR0IzgeRXyKzVhzVzP.jpg",
+        "release_date": "2025-06-25",
+        "title": "M3GAN 2.0",
+        "video": false,
+        "vote_average": 7.424,
+        "vote_count": 872
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/7QirCB1o80NEFpQGlQRZerZbQEp.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1156594,
+        "original_language": "es",
+        "original_title": "Culpa nuestra",
+        "overview": "",
+        "popularity": 45.5596,
+        "poster_path": "https://image.tmdb.org/t/p/original/6kmi6vmp6iOn4KzI7WfnVtAeJhU.jpg",
+        "release_date": "2025-10-15",
+        "title": "Culpa nuestra",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/np0dsehLDdbfyHFRtqCiL1GR0TQ.jpg",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "id": 533533,
+        "original_language": "en",
+        "original_title": "TRON: Ares",
+        "overview": "La historia de Ares, un programa muy sofisticado que se envía desde el mundo digital al mundo real en una misión peligrosa y que va a representar el primer encuentro de la humanidad con seres creados por la IA.",
+        "popularity": 42.1306,
+        "poster_path": "https://image.tmdb.org/t/p/original/qShQABLVRMZKnv5mWOPXWniBeB3.jpg",
+        "release_date": "2025-10-08",
+        "title": "TRON: Ares",
+        "video": false,
+        "vote_average": 10,
+        "vote_count": 2
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/nt0HRxlzOXRpPJtl2FmeBCO6MeR.jpg",
+        "genre_ids": [
+            27,
+            14,
+            10749
+        ],
+        "id": 1246049,
+        "original_language": "fr",
+        "original_title": "Dracula",
+        "overview": "Tras la muerte de su esposa, un príncipe del siglo XV renuncia a Dios y se convierte en vampiro. Siglos más tarde, en el Londres del siglo XIX, ve a una mujer parecida a su difunta esposa y la persigue, sellando así su propio destino.",
+        "popularity": 37.7848,
+        "poster_path": "https://image.tmdb.org/t/p/original/3SQVpeacrCIn3GF3BXNDoPcQxEz.jpg",
+        "release_date": "2025-07-30",
+        "title": "Drácula",
+        "video": false,
+        "vote_average": 7.165,
+        "vote_count": 167
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/5qGDpcga0BkCiHfrCYtGmutYTv4.jpg",
+        "genre_ids": [
+            36,
+            18
+        ],
+        "id": 760329,
+        "original_language": "en",
+        "original_title": "The Smashing Machine",
+        "overview": "",
+        "popularity": 31.0353,
+        "poster_path": "https://image.tmdb.org/t/p/original/3qfyfrY4Sa0fUPVH0rcsfGZZNoY.jpg",
+        "release_date": "2025-10-01",
+        "title": "The Smashing Machine",
+        "video": false,
+        "vote_average": 6.6,
+        "vote_count": 18
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/hofnlIyF6bePkgQOpcuRWLvzf15.jpg",
+        "genre_ids": [
+            16,
+            10751,
+            14
+        ],
+        "id": 14836,
+        "original_language": "en",
+        "original_title": "Coraline",
+        "overview": "Película de animación en la que se nos cuenta la historia de Coraline, una jovencita que descubre en su nueva casa una puerta secreta y decide abrirla. Al hacerlo, descubre una segunda versión de su vida, una vida paralela a la que ella tiene. A primera vista, la realidad paralela es curiosamente parecida a su vida de verdad, aunque mucho mejor. Pero cuando su increíble y maravillosa aventura empieza a tomar un cariz peligroso, su otra madre intenta mantenerla a su lado para siempre. Coraline deberá recurrir a su determinación y coraje, a la ayuda de los vecinos y a un gato negro con el don del habla para salvar a sus auténticos padres, a unos niños fantasmas y regresar a casa.",
+        "popularity": 26.5113,
+        "poster_path": "https://image.tmdb.org/t/p/original/xz1HjxeqpIACyPtJMqv33Z2RjRP.jpg",
+        "release_date": "2009-02-05",
+        "title": "Los mundos de Coraline",
+        "video": false,
+        "vote_average": 7.899,
+        "vote_count": 8569
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/eBhxn1g9l5UdnqfKdqMOBYltwZk.jpg",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "id": 1197137,
+        "original_language": "en",
+        "original_title": "Black Phone 2",
+        "overview": "Secuela de \"The Black Phone\".",
+        "popularity": 22.9125,
+        "poster_path": "https://image.tmdb.org/t/p/original/A6QNBDV1u3oaq3guBHGKcEJkYkX.jpg",
+        "release_date": "2025-10-15",
+        "title": "Black Phone 2",
+        "video": false,
+        "vote_average": 0,
+        "vote_count": 0
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/5bzPWQ2dFUl2aZKkp7ILJVVkRed.jpg",
+        "genre_ids": [
+            12,
+            35,
+            878
+        ],
+        "id": 105,
+        "original_language": "en",
+        "original_title": "Back to the Future",
+        "overview": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+        "popularity": 22.4222,
+        "poster_path": "https://image.tmdb.org/t/p/original/owk40tn1sFJmC7bhamEpmhdZPKa.jpg",
+        "release_date": "1985-07-03",
+        "title": "Regreso al futuro",
+        "video": false,
+        "vote_average": 8.321,
+        "vote_count": 20923
+    },
+    {
+        "adult": false,
+        "backdrop_path": "https://image.tmdb.org/t/p/original/s7vWRjcfRVMW8tBIxhC3UhKxRoo.jpg",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "id": 1097549,
+        "original_language": "en",
+        "original_title": "Babygirl",
+        "overview": "Una alta ejecutiva pone en peligro su carrera y su familia cuando inicia un tórrido romance con su becario, mucho más joven que ella.",
+        "popularity": 20.5569,
+        "poster_path": "https://image.tmdb.org/t/p/original/fCCZlnzf6yEGGO9UEdVADRVvfhM.jpg",
+        "release_date": "2024-12-25",
+        "title": "Babygirl",
+        "video": false,
+        "vote_average": 5.732,
+        "vote_count": 958
+    }
+]
