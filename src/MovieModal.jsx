@@ -26,6 +26,7 @@ const CloseButton = ({ onClose }) => (
 )
 
 export default function MovieModal({ movie, open, onClose, onShare }) {
+  const API_KEY = '0f6ece38caf04e94b997acd6df33cbd6'
   const [isFavorite, setIsFavorite] = useState(false)
   const [genres, setGenres] = useState([])
 
@@ -33,7 +34,7 @@ export default function MovieModal({ movie, open, onClose, onShare }) {
     if (movie?.id) {
       setIsFavorite(localStorage.getItem(`movie_${movie.id}_favorite`) === 'true')
       
-      fetch(`https://api.themoviedb.org/3/movie/${movie.id}?api_key=${import.meta.env.VITE_TMDB_API_KEY}&language=es-CL`)
+      fetch(`https://api.themoviedb.org/3/movie/${movie.id}?api_key=${API_KEY}&language=es-CL`)
         .then(res => res.json())
         .then(data => {
           if (data.genres) {

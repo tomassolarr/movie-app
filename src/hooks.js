@@ -5,10 +5,12 @@ export function useMovies(movieType, page = 1) {
   const [loading, setLoading] = useState(true)
   const [hasMore, setHasMore] = useState(true)
 
+const API_KEY = '0f6ece38caf04e94b997acd6df33cbd6'
+
   const loadMovies = useCallback(() => {
     setLoading(true)
 
-    fetch(`https://api.themoviedb.org/3/movie/${movieType}?api_key=${import.meta.env.VITE_TMDB_API_KEY}&language=es-CL&page=${page}`)
+    fetch(`https://api.themoviedb.org/3/movie/${movieType}?api_key=${API_KEY}&language=es-CL&page=${page}`)
       .then(response => response.json())
       .then((data) => {
         const newMovies = data.results.map(movie => {
